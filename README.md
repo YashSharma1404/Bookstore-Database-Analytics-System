@@ -87,9 +87,21 @@ RFM analysis was used to segment customers based on purchasing behavior.
 
 ![Customer Segmentation](images/customer_segmentation.png)
 
+## Customer Churn Analysis
+
+Customer churn analysis was performed to identify inactive customers and understand customer retention patterns.
+
+![Customer Churn Analysis](images/churned_analysis.png)
+
 
 ### Marketing Analytics
 - Marketing ROI analysis
+
+## Marketing ROI Analysis
+
+Marketing ROI analysis was conducted to evaluate the effectiveness of marketing campaigns by comparing generated revenue against marketing expenditure.
+
+![Marketing ROI Analysis](images/marketing_ROI.png)
 
 ---
 
