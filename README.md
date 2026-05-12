@@ -28,6 +28,12 @@ The database contains the following tables:
 
 Relationships are established using foreign keys to maintain data integrity.
 
+--- 
+
+## Database Schema
+
+![ER Diagram](images/er_diagram.png)
+
 ---
 
 ## Features
@@ -60,6 +66,13 @@ Relationships are established using foreign keys to maintain data integrity.
 - Monthly sales trend
 - Average order value
 
+## Revenue Analysis
+
+The following analysis identifies top-performing books and customers based on revenue generation.
+
+![Revenue Analysis](images/revenue_analysis.png)
+
+
 ### Inventory Analysis
 - Low stock alerts
 
@@ -67,6 +80,13 @@ Relationships are established using foreign keys to maintain data integrity.
 - RFM customer segmentation
 - Returning customer analysis
 - Customer churn analysis
+
+## Customer Segmentation
+
+RFM analysis was used to segment customers based on purchasing behavior.
+
+![Customer Segmentation](images/customer_segmentation.png)
+
 
 ### Marketing Analytics
 - Marketing ROI analysis
